@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Блог о том как я делал себе блог</title>
+    <link>https://maxchima.github.io/post/</link>
+    <description>Recent content in Posts on Блог о том как я делал себе блог</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ru-en</language>
+    <lastBuildDate>Sat, 11 Nov 2023 17:41:00 +0300</lastBuildDate>
+    <atom:link href="https://maxchima.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Почти готово!</title>
+      <link>https://maxchima.github.io/post/3/</link>
+      <pubDate>Sat, 11 Nov 2023 17:41:00 +0300</pubDate>
+      <guid>https://maxchima.github.io/post/3/</guid>
+      <description>&lt;p&gt;Жесть, кажеться я настроил почти всё!&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Моя жизнь так непредсказуема</title>
+      <link>https://maxchima.github.io/post/2/</link>
+      <pubDate>Sat, 11 Nov 2023 15:54:00 +0300</pubDate>
+      <guid>https://maxchima.github.io/post/2/</guid>
+      <description>&lt;p&gt;Как вы могли догодаться, я в не котором замешательстве относительно того, как всё вокруг происходит.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Мой первый пост</title>
+      <link>https://maxchima.github.io/post/title_of_the_post/</link>
+      <pubDate>Sat, 11 Nov 2023 15:50:00 +0300</pubDate>
+      <guid>https://maxchima.github.io/post/title_of_the_post/</guid>
+      <description>&lt;p&gt;Я очень удивлён тому что всё заработало.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
